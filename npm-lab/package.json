@@ -1,0 +1,20 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "...",
+    "axios": "..."
+  },
+  "devDependencies": {
+    "nodemon": "..."
+  }
+,
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "description": ""
+}
